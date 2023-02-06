@@ -9,7 +9,7 @@ import javax.print.DocFlavor;
 
 /**
  *
- * @author ezekielkouassi
+ * @author Adonis ka 
  */
 public class ExerciceXpWeek6Day3 {
 
